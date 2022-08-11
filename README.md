@@ -1,18 +1,19 @@
- MVP checkpoints:
- You must have implemented a stopwatch that lets you start, stop and reset.
- -done
+ Practice assignment.
  
- The stopwatch must display the number of seconds and milliseconds.
- -done(seconds)
+
+ Implemented a stopwatch that lets us start, stop and reset.
+
  
- The timer must allow a user to manually enter the time using an inputbox, in seconds.
- -done
+ The stopwatch displays the number of seconds.
+
  
- The user should be able to start, stop and reset the timer.
- -done
+ The timer allows a user to manually enter the time using an inputbox, in seconds.
+
  
- The user should be able to toggle between the timer and the stopwatch using tabs just like the google timer.
- -toggle button
+ The user will be able to start, stop and reset the timer.
+
  
- The timer should not increment twice if its already clicked
- -done
+ The user will be able to toggle between the timer and the stopwatch using toggle button.
+ 
+ 
+ The timer does not increment twice if its already clicked
